@@ -1,4 +1,4 @@
-# Space Invaders
+# 👾 Space Invaders 👾
 This is an implementation of the classic Space Invaders game built in Java and using JavaFX, for CS349: User Interfaces at the University of Waterloo.
 
 ## Gameplay
